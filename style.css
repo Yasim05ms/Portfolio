@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.navbar-nav{
+    font-size: 18px;
+
+}
+.navbar
+{
+position: sticky;
+top: 0;
+z-index: 4;
+}
+
+/* Buttons */
+.btn:hover{
+color: white;
+}
